@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DJA-prog
-- 👀 I’m interested in Automation, OS creation, Web Development.
-- 🌱 I’m currently learning: Python, C, PHP, SQL.
+- 👀 I’m interested in Automation, OS creation, Web Development, MCU programming.
+- 🌱 I’m currently learning: Python, C++, PHP, SQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email: almirall.dino@gmail.com
 
